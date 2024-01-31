@@ -39,4 +39,4 @@ You can check <a href="https://angular.io/guide/deployment" target="_blank">Angu
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-🧑‍💻 Developed by [JancoBH](https://github.com/JancoBH)
+🧑‍💻 Developed by Aditya
